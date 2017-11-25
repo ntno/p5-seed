@@ -1,0 +1,21 @@
+{
+  "name": "p5-seed",
+  "version": "1.0.0",
+  "description": "simple seed for p5.js project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "processing",
+    "p5.js",
+    "tutorial"
+  ],
+  "author": "ntno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "p5": "^0.5.16"
+  }
+}
