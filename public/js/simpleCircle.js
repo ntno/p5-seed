@@ -1,4 +1,6 @@
 function setup() {
+  var canvas = createCanvas(100, 100);
+  canvas.parent('circleCanvasContainer')
   background(0);
 }
 
